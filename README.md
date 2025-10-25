@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá! Eu sou o Osvaldi Jesus de Lima  👋
 
-<!--
-**VirtroidDidi/VirtroidDidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na **PUCPR** e um entusiasta de software, sempre fascinado pela **lógica e pela arte de construir sistemas** que solucionam desafios.
 
-Here are some ideas to get you started:
+Minha experiência profissional me ensinou sobre disciplina e organização de processos, e hoje no desenvolvimento de código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Do Mobile à Visão Full Stack: Meu Próximo Desafio
+
+Minha jornada começou com o desenvolvimento Mobile. A atração veio da possibilidade de atuar no ciclo completo do aplicativo: da interface **visual** à **lógica funcional** do servidor.
+
+* **Base de Conhecimento:** Construí projetos em **Kotlin** e **Java**, usando a **Arquitetura MVVM**, a integração com **Firebase** e a comunicação **API REST** (Retrofit/Coroutines).
+* **Curiosidade e Estratégia:** Estou aplicando essa base técnica na transição para o desenvolvimento **Full Stack (Node.js e React)**. Busco **escalar essa visão de produto completo** para atuar em soluções de ponta a ponta e me alinhar às demandas mais atuais do mercado.
+
+### 🛠️ Minha Stack Atual e em Estudo
+
+Aqui estão as tecnologias que uso em meus projetos e as que estou estudando ativamente :
+
+| Categoria | Projetos Fixados | Em Estudo (Próxima Etapa) |
+| :---: | :---: | :---: |
+| **Linguagens** | `Kotlin`, `Java` | `JavaScript`, `TypeScript` |
+| **Mobile & Backend** | `Android Nativo`, `Firebase` | `Node.js` (Express), `React.js` |
+| **Banco de Dados** | `SQLite`, `Firebase Realtime DB` | `MongoDB`, `SQL/PostgreSQL` |
+| **Arquitetura** | `MVVM`, `API REST`, `Orientação a Objetos` | `Clean Code`, `Microsserviços` |
+
+---
+
+🔗 **Vamos nos conectar?** Sinta-se à vontade para me adicionar no LinkedIn ou explorar meus repositórios fixados abaixo.
+
+[https://www.linkedin.com/in/osvaldi-jesus-80a021281/]
+
+---
+<p align="center"><i>
