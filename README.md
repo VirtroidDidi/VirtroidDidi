@@ -32,3 +32,44 @@ Aqui estão as tecnologias que uso em meus projetos e as que estou estudando ati
 
 ---
 <p align="center"><i>
+
+
+# Olá, eu sou o VirtroidDidi (Osvaldi Jesus D Elima)! 👋
+
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:osvaldi.jesus@pucpr.edu.br" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+### 🎓 Sobre Mim
+
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) na PUCPR, com foco em desenvolvimento de software orientado a boas práticas de mercado.
+
+Eu sou o **Desenvolvedor Mobile Kotlin & Java** da equipe. Atualmente, estou focado na transição para o universo **Full Stack** (React / Node.js) para expandir minhas habilidades e atuar em projetos de ponta a ponta.
+
+---
+
+### 🚀 Hard Skills e Stack
+
+Minha principal experiência reside no ecossistema Android e estou consolidando minha base web:
+
+| Categoria | Tecnologias Chave |
+| :--- | :--- |
+| **Mobile (Android)** | **Kotlin** (Principal), **Java**, MVVM, LiveData, RoomDB, Retrofit. |
+| **Backend/Cloud** | **Firebase** (Firestore, Auth), API REST, Node.js (em aprendizado). |
+| **Frontend Web** | **React** (em aprendizado), HTML5, CSS3, JavaScript ES6+. |
+| **Ferramentas/Versionamento** | Git, GitHub, Android Studio, VS Code. |
+
+---
+
+### 💻 Estatísticas do GitHub
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirtroidDidi&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+
+---
+
+### 🌱 Onde me encontrar
+
+Procuro oportunidades onde possa aplicar minhas habilidades Mobile e desenvolver minha experiência Full Stack. Conecte-se comigo no LinkedIn!
