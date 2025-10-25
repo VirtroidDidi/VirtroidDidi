@@ -1,10 +1,9 @@
 # Olá! Eu sou o Osvaldi Jesus de Lima  👋
-<a href="https://[www.linkedin.com/in/SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/osvaldi-jesus-80a021281/)" target="_blank">
+
+<a href="https://www.linkedin.com/in/osvaldi-jesus-80a021281/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:osvaldijesus@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na **PUCPR** e um entusiasta de software, sempre fascinado pela **lógica e pela arte de construir sistemas** que solucionam desafios.
 
