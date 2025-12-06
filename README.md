@@ -30,17 +30,7 @@ Aqui estão as tecnologias que uso em meus projetos e as que estou estudando ati
 | **Arquitetura** | `MVVM`, `API REST`, `Orientação a Objetos` | `Clean Code`, `Microsserviços` |
 
 ---
-### 💻 Estatísticas do GitHub
 
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark"/>
-  
-</div>
-
----
 ### 🌱 Onde me encontrar
 
 🔗 **Vamos nos conectar?** Sinta-se à vontade para me adicionar no LinkedIn ou explorar meus repositórios fixados abaixo.
