@@ -1,4 +1,4 @@
-# Olá! Eu sou o Osvaldi Jesus de Lima  👋
+# Olá! Eu sou o Osvaldi de Jesus 👋
 
 <a href="https://www.linkedin.com/in/osvaldi-jesus-80a021281/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
