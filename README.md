@@ -27,7 +27,7 @@ Aqui estão as tecnologias que uso em meus projetos e as que estou estudando ati
 | **Linguagens** | `Kotlin`, `Java` | `JavaScript`, `TypeScript` |
 | **Mobile & Backend** | `Android Nativo`, `Firebase` | `Node.js` , `React.js` |
 | **Banco de Dados** | `SQLite`, `Firebase Realtime DB` | `MongoDB`, `SQL/PostgreSQL` |
-| **Arquitetura** | `MVVM`, `API REST`, `Orientação a Objetos` | Desenvolvimento Web`, `FullStack` |
+| **Arquitetura** | `MVVM`, `API REST`, `Orientação a Objetos` | `Desenvolvimento Web`, `FullStack` |
 
 ---
 
